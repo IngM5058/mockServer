@@ -35,12 +35,12 @@
     },
     {
       "id": 1234567,
-      "category": "food",
+      "category": "Food",
       "title": "Cooking with Teddy",
-      "description": "Hope yall bring your slave to help me cook some food.",
+      "description": "Help me cook some food for brownies",
       "location": "In Paris",
-      "date": "September 11, 2001",
-      "time": "7:14 pm GMT+7",
+      "date": "9 11, 2001",
+      "time": "11:00",
       "petsAllowed": false,
       "organizer": "Teddy Choi"
     }
