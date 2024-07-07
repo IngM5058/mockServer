@@ -32,6 +32,17 @@
       "time": "11:00",
       "petsAllowed": false,
       "organizer": "Carey Wales"
+    },
+    {
+      "id": 1234567,
+      "category": "food",
+      "title": "Cooking with Teddy",
+      "description": "Hope yall bring your slave to help me cook some food.",
+      "location": "In Paris",
+      "date": "September 11, 2001",
+      "time": "7:14 pm GMT+7",
+      "petsAllowed": false,
+      "organizer": "Teddy Choi"
     }
   ]
 }
